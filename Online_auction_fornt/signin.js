@@ -14,8 +14,3 @@ function validate()
                 
             }
         }
-
-function pk()
-{
-    window.location.href="https://www.google.com";
-}
