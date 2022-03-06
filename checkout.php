@@ -1,10 +1,5 @@
 <?php
 include 'config.php';
-
-
-
-
-                         
 ?>
 
 <style>
