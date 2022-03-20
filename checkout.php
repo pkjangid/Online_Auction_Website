@@ -31,6 +31,7 @@ include 'config.php';
 .col-50,
 .col-75 {
   padding: 0 16px;
+
 }
 
 .container-checkout {
